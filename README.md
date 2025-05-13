@@ -2,7 +2,7 @@
 A fully interactive drum set built using JavaScript, HTML, and CSS. Users can play sounds by clicking on-screen buttons or pressing mapped keyboard keys — delivering a smooth, responsive musical experience.
 
 ## 🚀 Live Demo  
-👉 [Launch Drum Set] https://https://cossrca.github.io/Drum-Set/
+👉 [Launch Drum Set] (https://cossrca.github.io/Drum-Set/)
 
 ## 💡 What I Learned  
 - Used a `switch` statement to dynamically trigger different drum sounds based on key input  
@@ -22,4 +22,6 @@ A fully interactive drum set built using JavaScript, HTML, and CSS. Users can pl
 - **JavaScript** — DOM scripting and event handling  
 
 ## 📸 Screenshot  
-![Drum Set Screenshot] images/Drum-set-screenshot.png
+<p align="center">
+  <img src="images/Drum-set-screenshot.png" alt="Screenshot of Dice Game" width="500"/>
+</p>
